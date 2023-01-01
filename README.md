@@ -17,3 +17,23 @@
 
 - staging area -> **IT is a temporary storage area where changes to your files are kept before they are committed to the repository.**
 
+## To push a file to a github repository
+> create a file
+
+> git add (here filename with extension)
+
+> git commit -m 'add readme part inside this quote'
+
+> git log
+
+> git push
+
+## To push the same file which has been modified
+
+> git status
+
+> git add
+
+> git commit
+
+> git push
