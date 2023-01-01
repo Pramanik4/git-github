@@ -1,1 +1,1 @@
-print("Myself Pooja Pamanik, giving my best to become successful in my life.")
+print("I wanna get placed in a company which has aa good working culture.")
