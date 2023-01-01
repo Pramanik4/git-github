@@ -1,1 +1,1 @@
-print("Practice makes perfect")
+print("In life don't react, always respond")
