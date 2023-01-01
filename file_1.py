@@ -1,0 +1,1 @@
+print("Just be consistent with your work")
