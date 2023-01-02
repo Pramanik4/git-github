@@ -56,4 +56,13 @@
 
 > ![image](https://user-images.githubusercontent.com/75212387/210196611-fec2d576-4f41-4afe-8709-c3d8756980b4.png)
 
+# Merging braanches
+
+> ![image](https://user-images.githubusercontent.com/75212387/210197279-de8e6f76-e04b-45f9-99bc-43afd7cbf1fa.png)
+
+# Delete a branch
+
+> ![image](https://user-images.githubusercontent.com/75212387/210197458-4e38578c-5b71-4804-a4dd-60a7da333024.png)
+
+
 
