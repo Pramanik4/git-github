@@ -37,3 +37,23 @@
 > git commit
 
 > git push
+
+- undo the uncommited changes
+
+**git checkout -- .** -> will undo the changes made
+
+- undo the commited change
+
+**git revert (here paste the commited link which you can get it from git log)
+
+- Resetting the code change
+
+**git reset (paste the link here from where you wanna do reset)
+
+# Create a branch
+
+> ![image](https://user-images.githubusercontent.com/75212387/210195249-2dde2d59-bd71-419a-8461-1eb2d9fed226.png)
+
+> ![image](https://user-images.githubusercontent.com/75212387/210196611-fec2d576-4f41-4afe-8709-c3d8756980b4.png)
+
+
