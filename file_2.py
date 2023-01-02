@@ -1,1 +1,1 @@
-print("In life don't react, always respond")
+print("Learn from yesterday, live for today, hope for tomorrow")
