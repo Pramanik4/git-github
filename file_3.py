@@ -1,1 +1,1 @@
-print("I am revising the concepts over git commands")
+print("So far i have try with the basic of git commands")
