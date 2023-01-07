@@ -1,1 +1,1 @@
-print("The core of what Google is about is bringing information to people")
+print("Android was built to be very, very secure.")
