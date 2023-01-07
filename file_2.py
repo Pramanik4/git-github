@@ -1,1 +1,1 @@
-print("Learn from yesterday, live for today, hope for tomorrow")
+print("The core of what Google is about is bringing information to people")
