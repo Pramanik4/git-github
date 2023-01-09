@@ -1,1 +1,0 @@
-print("My name is Pooja Pramanik")

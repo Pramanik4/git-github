@@ -1,1 +1,0 @@
-print("Android was built to be very, very secure.")
