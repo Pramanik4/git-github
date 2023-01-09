@@ -64,5 +64,11 @@
 
 > ![image](https://user-images.githubusercontent.com/75212387/210197458-4e38578c-5b71-4804-a4dd-60a7da333024.png)
 
+# Remove the commited file from github
 
+> ![image](https://user-images.githubusercontent.com/75212387/211227357-e57dce2c-5045-48c8-af05-5de64ad18e54.png)
+
+# Remove the Multiple commited file from github
+
+> remove the commited file from github
 
