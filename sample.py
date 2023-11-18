@@ -1,2 +1,3 @@
 print("I am Pooja Pramanik")
-Print("Currently a Data Science Intern")
+print("Currently a Data Science Intern")
+print("Pooja")
